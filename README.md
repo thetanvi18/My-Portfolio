@@ -1,6 +1,6 @@
 # My-Portfolio
 # Description
-This repository contains the source code for Tanvi Dedhia's personal portfolio website. The website showcases Tanvi's background, skills, projects, and contact information.
+This repository contains the source code for Tanvi Dedhia's personal portfolio website.
 
 # Features
 - Sections for home, about, projects, skills, and contact.
